@@ -16,4 +16,6 @@ worker 地址: https://china-uni-rank-worker.stephen-yin.workers.dev
 npm run dev
 # 部署到 cloudflare worker
 npm run deploy
+# 爬取所有 U.S. News 中国和港澳台高校的排名数据
+npm run usnews
 ```
